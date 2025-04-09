@@ -1,5 +1,5 @@
 
-# M10 IOS Clone Project
+# M10 iOS Clone Project
 
 This project is an iOS application that replicates the home screen design and functionality of the M10 app, currently available on the App Store. It was built for learning and portfolio purposes using UIKit and the MVC architectural pattern.
 
